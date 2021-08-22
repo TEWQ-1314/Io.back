@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+# Site settings
+title: w会是n的灯塔                   		
+description: "Hey"	   	   
+
+# SNS settings      
+github_username: whsndl    
+qq_username: 3108719694
+
+# Build settings
+# paginate: 4              
