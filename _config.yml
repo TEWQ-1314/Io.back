@@ -8,4 +8,7 @@ github_username: whsndl
 qq_username: 3108719694
 
 # Build settings
-# paginate: 4              
+# paginate: 4             
+ 
+# Sidebar settings
+sidebar: true 
