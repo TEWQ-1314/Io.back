@@ -1,7 +1,7 @@
 ## There are something about this site and me.
 Hello,
 
-First,this site is used to introduce my github project and source code, and also as an alternate blog for some special regions.If you want to check out the blog and you can use Google, I suggest you visit my [Blogger](https://haorantung.blogspot.com) for a better browsing experience.
+First,this site is used to introduce my github project and source code, and also as an alternate blog for some special regions.If you want to check out the blog and you can use Google, I suggest you visit my [Blogger](https://zh-sclz.blogspot.com) for a better browsing experience.
    
    You can also contact me by:
    
