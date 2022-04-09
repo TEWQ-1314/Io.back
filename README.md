@@ -6,11 +6,11 @@
 
 Hello,
 
-First,this site is used to introduce my github project and source code, and also as an alternate blog for some special regions.If you want to check out the blog and you can use Google, I suggest you visit my [Blogger](https://haorantung.blogspot.com) for a better browsing experience.
+First,this site is used to introduce my github project and source code, and share some useful methods.If you have any troubles with the articles, please tell me, Thanks for your reading! Have a good time.
 
    You can also contact me by:
 
-   TEL: +8618715783028
+   TEL: +86 18715783028
 
    Email: 
 
@@ -18,10 +18,11 @@ First,this site is used to introduce my github project and source code, and also
 
 
 
-   QQ : 3108719694
+   QQ : 3108719694 (main)
 
-   WeChat: +8618715783028
+   WeChat: +86 18715783028
 
+   WhatsApp: +86 18715783028
 
 1. [VSC在Windows/Linux下配置golang开发环境](https://github.com/zh-sclz/Test_upload/blob/00aecaba7b050f2df0522dcc8f447544d24dca15/Blogspot/VSC%E5%9C%A8windows&Linux%E4%B8%8B%E9%85%8D%E7%BD%AEgolang%E7%8E%AF%E5%A2%83.pdf)
 
