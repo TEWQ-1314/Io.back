@@ -2,7 +2,7 @@
    
 
 
-## There are something about this site and me.
+
 
 Hello,
 
@@ -16,7 +16,7 @@ First,this site is used to introduce my github project and source code, and also
 
           haorantung@gmail.com
 
-          haorantung@icloud.com
+
 
    QQ : 3108719694
 
