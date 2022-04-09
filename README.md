@@ -6,7 +6,7 @@
 
 Hello,
 
-First,this site is used to introduce my github project and source code, and share some useful methods.If you have any troubles with the articles, please tell me, Thanks for your reading! Have a good time.
+First,this site is used to introduce my github project and source code, and share some useful methods.If you have any troubles with the articles, please tell me, Thanks for your reading! 
 
    You can also contact me by:
 
@@ -16,7 +16,7 @@ First,this site is used to introduce my github project and source code, and shar
 
           haorantung@gmail.com
 
-
+   BlogSpot: [Haoran Tung](https://haorantung.blogspot.com)
 
    QQ : 3108719694 (main)
 
