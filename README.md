@@ -12,13 +12,11 @@
           
           haorandong@mail.com
 
+  
+
+   QQ : 3108719694 [main]
    
-
-   QQ : 3108719694 「main」
-
-   WeChat: +86 18715783028
-
-   WhatsApp: +86 18715783028
+   [FaceBook] (https://www.facebook.com/Iepdcu)
 
 1. [VSC在Windows/Linux下配置golang开发环境]
 
