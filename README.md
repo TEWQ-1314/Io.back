@@ -1,6 +1,6 @@
 ## Welcome to Haoran Tung's BLOG
    
-### [Personal Information](https://github.com/iepdcu/iepdcu.github.io/blob/7f8102eac7d2ddd990195f292bf8562d40d7f59e/about.md)
+### *[Personal Information](https://github.com/iepdcu/iepdcu.github.io/blob/7f8102eac7d2ddd990195f292bf8562d40d7f59e/about.md)*
 
 [![59d8dde2221ed786.gif](https://i.postimg.cc/13F1PXwp/59d8dde2221ed786.gif)](https://postimg.cc/rDqPN8hm)
 ### POSTS
