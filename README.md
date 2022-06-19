@@ -1,22 +1,8 @@
 ## Welcome to Haoran Tung's BLOG
    
-### [Personal Information]()
+### [Personal Information](https://github.com/iepdcu/iepdcu.github.io/blob/7f8102eac7d2ddd990195f292bf8562d40d7f59e/about.md)
 
-   You can also contact me by:
-
-   TEL: +86 18715783028
-
-   Email: 
-
-          haorantung@gmail.com
-          
-          haorandong@mail.com
-
-  
-
-   QQ : 3108719694 [main]
-   
-   [FaceBook] (https://www.facebook.com/Iepdcu)
+### POSTS
 
 1. [VSC在Windows/Linux下配置golang开发环境]
 
