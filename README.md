@@ -4,10 +4,10 @@
 
 ### POSTS
 
-1. [VSC在Windows/Linux下配置golang开发环境]
+1. [VSC在Windows/Linux下配置golang开发环境](https://iepdcu.blogspot.com/2021/08/vscwindowslinuxgolang.html?m=1)
 
-2. [How to edit and upload code on local device to github]
+2. [How to edit and upload code on local device to github](https://iepdcu.blogspot.com/2021/05/how-to-edit-and-upload-code-on-local.html?m=1)
 
-3. [如何在Android设备上安装Kali Linux系统(不ROOT)]
+3. [如何在Android设备上安装Kali Linux系统(不ROOT)]()
 
-4. [How to play Minecraft:Java 1.17 on Android/PojavLauncher]
+4. [How to play Minecraft:Java 1.17 or higher version on Android/PojavLauncher](https://iepdcu.blogspot.com/2021/08/how-to-play-minecraftjava-on.html?m=1)
