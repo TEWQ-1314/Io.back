@@ -1,24 +1,22 @@
 ## There are something about this site and me.
 Hello,
-
-First,this site is used to introduce my github project and source code, and also as an alternate blog for some special regions.If you want to check out the blog and you can use Google, I suggest you visit my [Blogger](https://zh-sclz.blogspot.com) for a better browsing experience.
-   
+Nice to meet you,I am a middle school student form *Luzhou High School of Sichuan Province,China* I would be very happy if my article could help you. Of course, Due to age and technical level limitations, there are many deficiencies in the articles, I hope that readers can make suggestions for improvement.
    You can also contact me by:
    
-   TEL: +8618715783028
+   TEL: *+8618715783028*
    
    Email: 
    
           haorantung@gmail.com
    
-          haorantung@icloud.com
+          haorandong@mail.com
           
-   QQ : 3108719694
+   QQ : *3108719694[China]*
    
-   WeChat: +8618715783028
+   WeChat: *+8618715783028*
    
-   Facebook: [Haoran Tung](https://www.facebook.com/haorantung)
+   **Facebook: [Haoran Tung](https://www.facebook.com/iepdcu)**
    
-   Twitter: [Haoran Tung](https://twitter.com/haorantung)
+   **Twitter: [Haoran Tung](https://twitter.com/haorantung)**
    
    
