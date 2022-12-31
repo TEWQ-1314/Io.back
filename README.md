@@ -21,14 +21,14 @@
 -->
 
 
-### [**How to fixs Pixel: "Your device is corrupt...."**](/blogs/1.html)
+### [**How to fixs Pixel: "Your device is corrupt...."**](/articles/1.html)
 2022年7月13日星期三 [1 comment]()
 
 Your device is corrupt。It cant be trusted and may work properly
 Visit this link on another device:
-g.co\ABH[](/blogs/1.html)
+g.co\ABH[](/articles/1.html)
 
-[Read more →](/blogs/1.html)
+[Read more →](/articles/1.html)
 
 
 ### [**How to edit and upload code on local device to github**](https://www.mamihlapinatapai.com.cn/2021/05/how-to-edit-and-upload-code-on-local.html)
