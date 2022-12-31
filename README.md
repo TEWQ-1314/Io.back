@@ -1,6 +1,6 @@
 
    
-### *[Personal Information](https://github.com/iepdcu/iepdcu.github.io/blob/7f8102eac7d2ddd990195f292bf8562d40d7f59e/about.md)*
+### *[Personal Information](https://www.depth.su/ab)*
 
 
 ### POSTS
