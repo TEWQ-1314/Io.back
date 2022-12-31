@@ -1,0 +1,56 @@
+<! DOCTYPE html>
+<html lang="en">
+   <head>
+<meta charset="utf-8">
+<title>How to fixs "Your device is corrupt"</title>
+<body>
+	<body bgcolor="#FFFFFF">
+<body bgcolor="rgb(0,0,0)">
+<body bgcolor="black">
+	情况描述：从安卓13回退到安卓12时，手机手机后出现这个界面，按下电源键后立刻重启，又回到这一界面，无法进入系统<br><b><font color="#FF0000">＜ ! ＞</font></b>Your device is corrupt。It cant be trusted and may work properly
+<br>Visit this link on another device:
+<br><font color="#FF0000">g.co\ABH</font><br><br><a ><img src="https://s2.loli.net/2022/07/13/1Q9yPH47pzNcLVU.jpg" alt="mmexport1657689907550~2.jpg" width="300" height="300"/><br>
+	设备：Google Pixel 4A(5G), 一台笔记本电脑，一根可以传输数据的USB数据线<br>
+		<b>一、先来看看其他网友的做法</b><br>
+		          方法1：手机进入REC，点击【高级】，点击【终端命令】输入：reboot "dm-verity enforcing"
+  <br><br>方法2：连接电脑后，在电脑打开【ADB命令行】输入：adb reboot "dm-verity enforcing"
+  <br><br>方法3：<a href="http://t.csdn.cn/ZtuM7">Your device is corrupt. It cant‘t be trusted and may not work propely. </a>
+  <br><br><b>二、博主的做法：重装系统</b><br><i>准备工具:出问题的手机，一台windows电脑，一根数据线</i><br>
+
+  <br>1,打开电脑，从Google官方下载ADB命令行工具包<a href="https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn#downloads">点击跳转</a>，下载完成之后解压缩，记录下解压后的文件夹目录，例如我这里是 <i>E:\TEMP\platform-tools_r33.0.2-windows\platform-tools</i>
+  每个人的电脑不一样，自己随机应变
+  <br>2,配置环境变量。桌面上找到“此电脑”,鼠标右单击，左单击“属性”进入控制面板，点击“系统高级设置”，设置环境变量。在“系统变量”一栏点击“path"变量，新建，把刚才复制的路径粘贴。<i>E:\TEMP\platform-tools_r33.0.2-windows\platform-tools</i>然后保存.不会的朋友可以参考Google.
+  <br><img src="https://s2.loli.net/2022/07/13/BKimrp47wZSs6fk.jpg" alt="mmexport1657678642704~2.jpg"width="400" height="300"/>
+  <br>3,使用 win+R调出窗口,输入cmd后回车进入命令行，将手机的用数据线与电脑相连
+    <br>4,将手机关机重启，重启时长按电源键和音量加键直到进入Fastboot model <br><img src="https://s2.loli.net/2022/07/13/if9eRjyrBVCbdX1.jpg" alt="u_2904203650_3334175914_fm_253_fmt_auto_app_138_f_JPEG.jpeg"width="400" height="250"/>
+  <br>5,长按音量加键直到进入工程模式（不同机型可以上网查询如何进入）<br><img src="https://s2.loli.net/2022/07/13/HholnZBXrkm5f6E.jpg" alt="how-to-fix-android-recovery-mode-no-command-error-1280x720.jpg"width="250" height="150"/>
+  <br>6,按住电源键，同时按一下音量加键，进入Android Recovery 
+  <br>7,用音量键进行选择，我们这里选择Apply update from ADB. 按电源键确认
+  <br><img src="https://s2.loli.net/2022/07/13/JREKaWeTwmZp1dz.jpg" alt="mmexport1657678619306~2.jpg"width="300" height="300"/>
+  <br>8,在电脑命令行输入<i>adb devices</i>回车，这是电脑上会返回你的手机编号，说明成功连接<br><img src="https://s2.loli.net/2022/07/13/JlIXGO2zhuEcAdn.jpg" alt="mmexport1657678647445.jpg"width="300" height="300"/>
+  <br>9,访问你的手机官方镜像站，下载对应的OTA包，例如我的手机是Pixel 4a5g,访问<a href="https://developer.android.google.cn/about/versions/13/download-ota?hl=zh-cn">谷歌官方网站</a>下载，注意一定要下载本机型的OTA包，且下载包的版本不能低于当前手机系统的版本
+  <br><img src="https://s2.loli.net/2022/07/13/9hnN2pQxmo45S1Y.png" alt="Screenshot_20220713-143911.png"width="300" height="450"/>
+  <br>10,下载完成后，命令行输入<i>adb sideload </i>然后把下载文件拖入命令行窗口，这是它会自动补全<i>sideload</i>后面的路径,然后回车，开始写入数据，等待进度到达100%后，就可以开机进入系统了<br><img src="https://s2.loli.net/2022/07/13/HVmGMv47I58LYQb.jpg" alt="-54642d3569320aa8~3.jpg"width="300" height="300"/>
+  <br><br><b>不同机型之间存在差异，如果存在任何问题欢迎通过Facebook或E-Mail与我联系。</b>
+  
+	<!-- <style
+			.center-box{
+				text-align: center;
+			}
+			.baincheng-sp{
+				display: inline-block;
+				width: 500px;
+			}
+		</style
+	</head>
+	<body
+		<div class="center-box">
+			<span class="baincheng-sp"
+				Your device is corrupt。It cant be trusted and may work properly
+<br>Visit this link on another device:
+g.co\ABH
+			</span
+		</div>
+-->
+</body>
+</html>
