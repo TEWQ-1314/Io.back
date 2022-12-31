@@ -20,9 +20,9 @@
 6. [How to edit and run Golang on Android devices or termux](https://iepdcu.blogspot.com/2021/02/android.html)
 -->
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
+
 ### [**How to fixs Pixel: "Your device is corrupt...."**](/blogs/1.html)
-2022年7月13日星期三[1 comment]()
+2022年7月13日星期三 [1 comment]()
 
 Your device is corrupt。It cant be trusted and may work properly
 Visit this link on another device:
@@ -30,7 +30,7 @@ g.co\ABH[](/blogs/1.html)
 
 [Read more →](/blogs/1.html)
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
+
 ### [**How to edit and upload code on local device to github**](www.mamihlapinatapai.com.cn/2021/05/how-to-edit-and-upload-code-on-local.html)
 2021年5月4日星期二5 min read[8 comments]()
 
@@ -41,7 +41,7 @@ Preparation tools:
 
 [Read more →](www.mamihlapinatapai.com.cn/2021/05/how-to-edit-and-upload-code-on-local.html)
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
+
 ### [**VSC在Windows/Linux下配置golang开发环境**](www.mamihlapinatapai.com.cn/2021/08/vscwindowslinuxgolang.html)
 2021年8月16日星期一3 min read[26 comments]()
 
@@ -50,7 +50,7 @@ VSC在windows&Linux下配置golang环境.pdf[](www.mamihlapinatapai.com.cn/2021/
 
 [Read more →](www.mamihlapinatapai.com.cn/2021/08/vscwindowslinuxgolang.html)
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
+
 ### [**How to play Minecraft:Java 1.17 on Android/PojavLauncher**](www.mamihlapinatapai.com.cn/2021/08/how-to-play-minecraftjava-on.html)
 2021年8月8日星期日8 min read[12 comments]()
 
@@ -59,7 +59,6 @@ VSC在windows&Linux下配置golang环境.pdf[](www.mamihlapinatapai.com.cn/2021/
 
 [Read more →](www.mamihlapinatapai.com.cn/2021/08/how-to-play-minecraftjava-on.html)
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
 ### [**How to edit and run Golang on Android devices or termux**](www.mamihlapinatapai.com.cn/2021/02/android.html)
 2021年2月21日15 min read[3 comments]()
 
@@ -67,7 +66,7 @@ VSC在windows&Linux下配置golang环境.pdf[](www.mamihlapinatapai.com.cn/2021/
 
 [Read more →](www.mamihlapinatapai.com.cn/2021/02/android.html)
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
+
 ### [**Windows system uses TaskList to kill viruses**](www.mamihlapinatapai.com.cn/2020/09/blog-post.html)
 2020年9月19日10 min read[23 comments]()
 
@@ -77,7 +76,7 @@ VSC在windows&Linux下配置golang环境.pdf[](www.mamihlapinatapai.com.cn/2021/
 
 [Read more →](www.mamihlapinatapai.com.cn/2020/09/blog-post.html)
 
-![image](Aspose.Words.d748efbb-c7db-4ce5-b8f6-389e2bd09e68.001.png) 
+
 ### [**如何在Android设备上安装Kali Linux系统(不ROOT)**](www.mamihlapinatapai.com.cn/2021/02/androidkaliroot.html)
 2021年2月21日2 min read[1 comment]()
 
