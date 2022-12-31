@@ -19,7 +19,7 @@ Nice to meet you,I am a middle school student form *Luzhou High School of Sichua
    
    WeChat: *+8618715783028*
    
-   **Facebook: [Haoran Tung](https://www.facebook.com/iepdcu)**
+   **Facebook: [Haoran Tung](https://www.facebook.com/inagi.aden)**
    
    **Twitter: [Haoran Tung](https://twitter.com/haorantung)**
    
