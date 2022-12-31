@@ -1,6 +1,10 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 # Site settings
 title: T E W Q               		
 description: "希望有個如你一般的人，貫徹未來，數遍生命的公路牌。"	   	   
