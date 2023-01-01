@@ -31,6 +31,17 @@ Demo Tools:
 
 [Read more →](/articles/2/index.html)
 
+### [**VSC在Windows/Linux下配置golang开发环境**](/articles/3/index.html)
+2021年8月16日星期一3 min read[26 comments]()
+VSCode 的全称是 Visual Studio Code，是微软于 2015 年发布的一款免费开源的现代化轻量级代码编辑器。
+
+下载 Go 语言包
+Golang 官网地址为：https://golang.org 或者 https://golang.google.cn 以及 Go 语言中文网
+[](/articles/3/index.html)
+
+[Read more →](/articles/3/index.html)
+
+
 ### [**How to fixs Pixel: "Your device is corrupt...."**](/articles/1.html)
 2022年7月13日星期三 [1 comment]()
 
@@ -52,13 +63,7 @@ Preparation tools:
 [Read more →](https://www.mamihlapinatapai.com.cn/2021/05/how-to-edit-and-upload-code-on-local.html)
 
 
-### [**VSC在Windows/Linux下配置golang开发环境**](https://www.mamihlapinatapai.com.cn/2021/08/vscwindowslinuxgolang.html)
-2021年8月16日星期一3 min read[26 comments]()
 
-由于使用的是第三方软件编辑，请访问我的[Github仓库](https://github.com/iepdcu/Test_upload/tree/main/Blogspot)界面查看 
-VSC在windows&Linux下配置golang环境.pdf[](https://www.mamihlapinatapai.com.cn/2021/08/vscwindowslinuxgolang.html)
-
-[Read more →](https://www.mamihlapinatapai.com.cn/2021/08/vscwindowslinuxgolang.html)
 
 
 ### [**How to play Minecraft:Java 1.17 on Android/PojavLauncher**](https://www.mamihlapinatapai.com.cn/2021/08/how-to-play-minecraftjava-on.html)
