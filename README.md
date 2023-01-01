@@ -19,7 +19,17 @@
 
 6. [How to edit and run Golang on Android devices or termux](https://iepdcu.blogspot.com/2021/02/android.html)
 -->
+### [**How To Solve The Problem That Android12+ Automatically Ends The Process -PhantomProcessKiller**](/articles/2/index.html)
+2023年1月1日星期日 [0 comment]()
 
+Scene:  Termux: [Process completed (signal 9) - press Enter] and Game Exit etc.
+
+
+Demo Tools:
+   An Android Tablet PC(android 12)-Equipment to be repaired , A Smart Phone(android 13) + Termux (Both devices are in the same LAN)
+[](/articles/2/index.html)
+
+[Read more →](/articles/2/index.html)
 
 ### [**How to fixs Pixel: "Your device is corrupt...."**](/articles/1.html)
 2022年7月13日星期三 [1 comment]()
