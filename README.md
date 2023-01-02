@@ -1,7 +1,7 @@
 ## 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生
    
-### *[Personal Information](https://www.depth.su/ab)*
-### *[Web Games](https://www.depth.su/game)*
+### *[Personal Information and Web Games ](https://www.depth.su/me)*
+
 
 # POSTS.        
   
