@@ -4,8 +4,7 @@
 
 
 ### POSTS
-   // ***Article 1-6 was first published on google blogs, due to local legal reasons, please forgive the inconvenience caused to Chinese users.***
-
+  
 <!-- 
 1. [VSC在Windows/Linux下配置golang开发环境](https://iepdcu.blogspot.com/2021/08/vscwindowslinuxgolang.html?m=1)
 
