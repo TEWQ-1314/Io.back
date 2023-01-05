@@ -2,7 +2,34 @@
    
 ### *[Personal Information and Web Games ](https://www.depth.su/me)*
 
+### Languages and Tools 🛠️
 
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Theme UI" title="Theme UI" width="26px" src="https://theme-ui.com/icon.png" />
+<img align="left" alt="Emotion" title="Emotion" width="26px" src="https://emotion.sh/logo-32x32.png" />
+<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Angular" title="Angular" width="26px" src="https://angular.io/assets/images/favicons/favicon.ico" />
+<img align="left" alt="Angular Material" title="Angular Material" width="26px" src="https://material.angular.io/assets/img/favicons/favicon-32x32.png?v=8.2.3" />
+<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React Query" title="React Query" width="26px" src="https://react-query-v3.tanstack.com/_next/static/images/favicon-eed8346421218b24d8fd0fd55c2f9e35.png" />
+<img align="left" alt="Redux" title="Redux" width="26px" src="https://redux.js.org/img/favicon/favicon.ico" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
+### My GitHub account details ⚡
+
+<img alt="Andrew Lawendy's GitHub Stats" src="https://github-readme-stats-murex-two.vercel.app/api?username=inagiaden&show_icons=true&count_private=true&include_all_commits=true"/>
+
+<br />
+
+<img alt="Andrew Lawendy's Top Languages" src="https://github-readme-stats-murex-two.vercel.app/api/top-langs/?username=inagiaden&layout=compact">
 # POSTS.        
   
 <!-- 
