@@ -1,4 +1,4 @@
-## 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生
+# Haoran Tung | Welcome To My BLOG.
    
 ### *[Personal Information and Web Games ](https://www.depth.su/me)*
 
