@@ -1,4 +1,4 @@
-# Haoran Tung | Welcome To My BLOG.
+# Welcome To Haoran Tung's BLOG.
    
 ### *[Personal Information and Web Games ](https://www.depth.su/me)*
 
